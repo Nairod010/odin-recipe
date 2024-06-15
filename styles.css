@@ -1,0 +1,14 @@
+.main-page-heading {
+    background-color: #ffff88; 
+    color: #000000;
+    font-size: 52px; 
+    text-align: center;
+}
+
+.recipes-list {
+    background-color: #b1a1ff;
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: 700;
+}
+

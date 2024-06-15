@@ -1,0 +1,42 @@
+html {
+    font-family: 'Times New Roman', Times, serif;    
+}
+
+
+h1 {
+    font-size: 52px;    
+    background-color: #aaff00;
+    text-align: center;
+}
+
+h2 {
+    background-color: rgb(0, 0 ,0);
+    text-align: center;
+    color: #ffffff;
+    font-size: 40px;
+}
+
+
+.first-para , .second-para{
+    font-size: 20px;
+    background-color: #aaff00;
+    font-weight: 700;
+}
+
+.ingredients {
+    font-size: 20px;
+    background-color: #ffff00;
+    text-align: center;
+}
+
+.steps {
+    font-size: 20px;
+    background-color: #aaff00;
+    font-weight: 700;
+    text-align: center;
+}
+
+.recipe-img {
+    width:600px;
+    height: auto;
+}

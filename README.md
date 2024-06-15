@@ -12,7 +12,7 @@
 <p style="font-size: 18px;">
 1. <b>Clone the Repository</b><br>
    <code>git clone https://github.com/Nairod010/odin-recipe.git<br>
-   cd odin-recipe</code>
+    cd odin-recipe</code>
 </p>
 
 <p style="font-size: 18px;">
